@@ -1,0 +1,34 @@
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Infrastructure.deps.json
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Infrastructure.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Infrastructure.pdb
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Domain.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Application.pdb
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Domain.pdb
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.AssemblyInfo.cs
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.csproj.CopyComplete
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/refint/CandidateApi.Infrastructure.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.pdb
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Infrastructure/obj/Debug/net8.0/ref/CandidateApi.Infrastructure.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Infrastructure.deps.json
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Infrastructure.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Infrastructure.pdb
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Domain.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Application.pdb
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/bin/Debug/net8.0/CandidateApi.Domain.pdb
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.AssemblyInfo.cs
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.csproj.CopyComplete
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/refint/CandidateApi.Infrastructure.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/CandidateApi.Infrastructure.pdb
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Infrastructure/obj/Debug/net8.0/ref/CandidateApi.Infrastructure.dll

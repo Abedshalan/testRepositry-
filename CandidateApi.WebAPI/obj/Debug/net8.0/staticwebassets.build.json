@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jjIycLUfYUq/Lxq0AuPB2bZm+4HW9Jld0lDfq0hIgY0=",
+  "Source": "CandidateApi.WebAPI",
+  "BasePath": "_content/CandidateApi.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

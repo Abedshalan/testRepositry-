@@ -1,0 +1,30 @@
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Application.deps.json
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Application.pdb
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Domain.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Domain.pdb
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.csproj.AssemblyReference.cache
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.AssemblyInfoInputs.cache
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.AssemblyInfo.cs
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.csproj.CoreCompileInputs.cache
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.csproj.CopyComplete
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/refint/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.pdb
+/Users/abdelrahmanalishalan/Documents/untitled folder/CandidateApi.Application/obj/Debug/net8.0/ref/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Application.deps.json
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Application.pdb
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Domain.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/bin/Debug/net8.0/CandidateApi.Domain.pdb
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.csproj.AssemblyReference.cache
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.AssemblyInfoInputs.cache
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.AssemblyInfo.cs
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.csproj.CoreCompileInputs.cache
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.csproj.CopyComplete
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/refint/CandidateApi.Application.dll
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/CandidateApi.Application.pdb
+/Users/abdelrahmanalishalan/Documents/TestProject/CandidateApi.Application/obj/Debug/net8.0/ref/CandidateApi.Application.dll
